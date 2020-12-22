@@ -1,0 +1,256 @@
+Attempting to improve set, starting from: ['AUD']
+Attempting to improve set, starting from: ['AUD', 'USD']
+Attempting to improve set, starting from: ['AUD', 'USD', 'EUR']
+Attempting to improve set, starting from: ['AUD', 'USD', 'EUR', 'CAD']
+Attempting to improve set, starting from: ['AUD', 'USD', 'EUR', 'CAD', 'JPY']
+Attempting to improve set, starting from: ['AUD', 'USD', 'EUR', 'CAD', 'JPY', 'SEK']
+Best set: ['AUD', 'USD', 'EUR', 'CAD', 'JPY', 'SEK', 'CNY'] (0.005895438711103024)
+With mix:
+USD   0.49547
+EUR   0.19016
+SEK   0.10447
+CAD   0.09213
+JPY   0.06316
+CNY   0.04325
+AUD   0.01136
+dtype: float64Attempting to improve set, starting from: ['CAD']
+Attempting to improve set, starting from: ['CAD', 'USD']
+Attempting to improve set, starting from: ['CAD', 'USD', 'EUR']
+Attempting to improve set, starting from: ['CAD', 'USD', 'EUR', 'JPY']
+Attempting to improve set, starting from: ['CAD', 'USD', 'EUR', 'JPY', 'NZD']
+Attempting to improve set, starting from: ['CAD', 'USD', 'EUR', 'JPY', 'NZD', 'GBP']
+Best set: ['CAD', 'USD', 'EUR', 'JPY', 'NZD', 'GBP', 'CNY'] (0.00585636786182309)
+With mix:
+USD   0.39693
+EUR   0.19432
+CAD   0.09689
+CNY   0.09426
+GBP   0.09116
+JPY   0.08720
+NZD   0.03924
+dtype: float64Attempting to improve set, starting from: ['CHF']
+Attempting to improve set, starting from: ['CHF', 'GBP']
+Attempting to improve set, starting from: ['CHF', 'GBP', 'USD']
+Attempting to improve set, starting from: ['CHF', 'GBP', 'USD', 'CAD']
+Attempting to improve set, starting from: ['CHF', 'GBP', 'USD', 'CAD', 'EUR']
+Attempting to improve set, starting from: ['CHF', 'GBP', 'USD', 'CAD', 'EUR', 'JPY']
+Best set: ['CHF', 'GBP', 'USD', 'CAD', 'EUR', 'JPY', 'CNY'] (0.005853059362487962)
+With mix:
+USD   0.39591
+EUR   0.17705
+GBP   0.11178
+CAD   0.10723
+JPY   0.08764
+CNY   0.06150
+CHF   0.05890
+dtype: float64Attempting to improve set, starting from: ['CNY']
+Attempting to improve set, starting from: ['CNY', 'HUF']
+Attempting to improve set, starting from: ['CNY', 'HUF', 'USD']
+Attempting to improve set, starting from: ['CNY', 'HUF', 'USD', 'CAD']
+Attempting to improve set, starting from: ['CNY', 'HUF', 'USD', 'CAD', 'JPY']
+Attempting to improve set, starting from: ['CNY', 'HUF', 'USD', 'CAD', 'JPY', 'KRW']
+Best set: ['CNY', 'HUF', 'USD', 'CAD', 'JPY', 'KRW', 'EUR'] (0.005849311016127315)
+With mix:
+USD   0.34949
+EUR   0.16743
+CNY   0.13964
+KRW   0.09667
+CAD   0.09429
+JPY   0.08917
+HUF   0.06330
+dtype: float64Attempting to improve set, starting from: ['CZK']
+Attempting to improve set, starting from: ['CZK', 'USD']
+Attempting to improve set, starting from: ['CZK', 'USD', 'CAD']
+Attempting to improve set, starting from: ['CZK', 'USD', 'CAD', 'EUR']
+Attempting to improve set, starting from: ['CZK', 'USD', 'CAD', 'EUR', 'JPY']
+Attempting to improve set, starting from: ['CZK', 'USD', 'CAD', 'EUR', 'JPY', 'NZD']
+Best set: ['CZK', 'USD', 'CAD', 'EUR', 'JPY', 'NZD', 'GBP'] (0.005885176867173924)
+With mix:
+USD   0.48041
+EUR   0.17402
+CAD   0.09468
+JPY   0.08109
+NZD   0.07779
+GBP   0.05357
+CZK   0.03846
+dtype: float64Attempting to improve set, starting from: ['EUR']
+Attempting to improve set, starting from: ['EUR', 'USD']
+Attempting to improve set, starting from: ['EUR', 'USD', 'AUD']
+Attempting to improve set, starting from: ['EUR', 'USD', 'AUD', 'CAD']
+Attempting to improve set, starting from: ['EUR', 'USD', 'AUD', 'CAD', 'JPY']
+Attempting to improve set, starting from: ['EUR', 'USD', 'AUD', 'CAD', 'JPY', 'SEK']
+Best set: ['EUR', 'USD', 'AUD', 'CAD', 'JPY', 'SEK', 'CNY'] (0.00589543871111442)
+With mix:
+USD   0.49547
+EUR   0.19016
+SEK   0.10447
+CAD   0.09213
+JPY   0.06316
+CNY   0.04325
+AUD   0.01136
+dtype: float64Attempting to improve set, starting from: ['GBP']
+Attempting to improve set, starting from: ['GBP', 'SGD']
+Attempting to improve set, starting from: ['GBP', 'SGD', 'USD']
+Attempting to improve set, starting from: ['GBP', 'SGD', 'USD', 'EUR']
+Attempting to improve set, starting from: ['GBP', 'SGD', 'USD', 'EUR', 'JPY']
+Attempting to improve set, starting from: ['GBP', 'SGD', 'USD', 'EUR', 'JPY', 'IDR']
+Best set: ['GBP', 'SGD', 'USD', 'EUR', 'JPY', 'IDR', 'CNY'] (0.005842938729574622)
+With mix:
+USD   0.36044
+EUR   0.18250
+GBP   0.11510
+SGD   0.11048
+JPY   0.08594
+CNY   0.08536
+IDR   0.06018
+dtype: float64Attempting to improve set, starting from: ['HUF']
+Attempting to improve set, starting from: ['HUF', 'USD']
+Attempting to improve set, starting from: ['HUF', 'USD', 'SGD']
+Attempting to improve set, starting from: ['HUF', 'USD', 'SGD', 'CAD']
+Attempting to improve set, starting from: ['HUF', 'USD', 'SGD', 'CAD', 'EUR']
+Attempting to improve set, starting from: ['HUF', 'USD', 'SGD', 'CAD', 'EUR', 'JPY']
+Best set: ['HUF', 'USD', 'SGD', 'CAD', 'EUR', 'JPY', 'GBP'] (0.0058626992995149865)
+With mix:
+USD   0.41691
+EUR   0.16950
+SGD   0.14043
+CAD   0.09239
+GBP   0.08516
+JPY   0.07363
+HUF   0.02199
+dtype: float64Attempting to improve set, starting from: ['IDR']
+Attempting to improve set, starting from: ['IDR', 'USD']
+Attempting to improve set, starting from: ['IDR', 'USD', 'CAD']
+Attempting to improve set, starting from: ['IDR', 'USD', 'CAD', 'EUR']
+Attempting to improve set, starting from: ['IDR', 'USD', 'CAD', 'EUR', 'SGD']
+Attempting to improve set, starting from: ['IDR', 'USD', 'CAD', 'EUR', 'SGD', 'JPY']
+Best set: ['IDR', 'USD', 'CAD', 'EUR', 'SGD', 'JPY', 'GBP'] (0.005852743922312309)
+With mix:
+USD   0.40125
+EUR   0.18503
+SGD   0.16176
+GBP   0.09492
+JPY   0.07528
+CAD   0.04103
+IDR   0.04073
+dtype: float64Attempting to improve set, starting from: ['JPY']
+Attempting to improve set, starting from: ['JPY', 'USD']
+Attempting to improve set, starting from: ['JPY', 'USD', 'SEK']
+Attempting to improve set, starting from: ['JPY', 'USD', 'SEK', 'EUR']
+Attempting to improve set, starting from: ['JPY', 'USD', 'SEK', 'EUR', 'CAD']
+Attempting to improve set, starting from: ['JPY', 'USD', 'SEK', 'EUR', 'CAD', 'CNY']
+Best set: ['JPY', 'USD', 'SEK', 'EUR', 'CAD', 'CNY', 'KRW'] (0.005856612799920895)
+With mix:
+USD   0.38097
+EUR   0.21894
+JPY   0.09029
+KRW   0.08885
+CNY   0.08752
+CAD   0.08005
+SEK   0.05339
+dtype: float64Attempting to improve set, starting from: ['KRW']
+Attempting to improve set, starting from: ['KRW', 'USD']
+Attempting to improve set, starting from: ['KRW', 'USD', 'CZK']
+Attempting to improve set, starting from: ['KRW', 'USD', 'CZK', 'CAD']
+Attempting to improve set, starting from: ['KRW', 'USD', 'CZK', 'CAD', 'JPY']
+Attempting to improve set, starting from: ['KRW', 'USD', 'CZK', 'CAD', 'JPY', 'EUR']
+Best set: ['KRW', 'USD', 'CZK', 'CAD', 'JPY', 'EUR', 'CNY'] (0.005860978433525265)
+With mix:
+USD   0.36485
+EUR   0.22472
+KRW   0.10519
+CAD   0.10119
+CNY   0.09521
+JPY   0.08737
+CZK   0.02147
+dtype: float64Attempting to improve set, starting from: ['NOK']
+Attempting to improve set, starting from: ['NOK', 'USD']
+Attempting to improve set, starting from: ['NOK', 'USD', 'JPY']
+Attempting to improve set, starting from: ['NOK', 'USD', 'JPY', 'EUR']
+Attempting to improve set, starting from: ['NOK', 'USD', 'JPY', 'EUR', 'NZD']
+Attempting to improve set, starting from: ['NOK', 'USD', 'JPY', 'EUR', 'NZD', 'GBP']
+Best set: ['NOK', 'USD', 'JPY', 'EUR', 'NZD', 'GBP', 'CNY'] (0.005856835185800135)
+With mix:
+USD   0.41496
+EUR   0.16387
+CNY   0.10668
+JPY   0.09803
+GBP   0.09338
+NOK   0.07682
+NZD   0.04627
+dtype: float64Attempting to improve set, starting from: ['NZD']
+Attempting to improve set, starting from: ['NZD', 'USD']
+Attempting to improve set, starting from: ['NZD', 'USD', 'EUR']
+Attempting to improve set, starting from: ['NZD', 'USD', 'EUR', 'JPY']
+Attempting to improve set, starting from: ['NZD', 'USD', 'EUR', 'JPY', 'CAD']
+Attempting to improve set, starting from: ['NZD', 'USD', 'EUR', 'JPY', 'CAD', 'GBP']
+Best set: ['NZD', 'USD', 'EUR', 'JPY', 'CAD', 'GBP', 'CNY'] (0.00585636786336414)
+With mix:
+USD   0.39693
+EUR   0.19432
+CAD   0.09689
+CNY   0.09426
+GBP   0.09116
+JPY   0.08720
+NZD   0.03924
+dtype: float64Attempting to improve set, starting from: ['PLN']
+Attempting to improve set, starting from: ['PLN', 'USD']
+Attempting to improve set, starting from: ['PLN', 'USD', 'CAD']
+Attempting to improve set, starting from: ['PLN', 'USD', 'CAD', 'EUR']
+Attempting to improve set, starting from: ['PLN', 'USD', 'CAD', 'EUR', 'JPY']
+Attempting to improve set, starting from: ['PLN', 'USD', 'CAD', 'EUR', 'JPY', 'NZD']
+Best set: ['PLN', 'USD', 'CAD', 'EUR', 'JPY', 'NZD', 'GBP'] (0.005888619054869814)
+With mix:
+USD   0.47348
+EUR   0.21206
+CAD   0.10534
+JPY   0.08537
+NZD   0.07645
+GBP   0.04729
+PLN   0.00000
+dtype: float64Attempting to improve set, starting from: ['SEK']
+Attempting to improve set, starting from: ['SEK', 'USD']
+Attempting to improve set, starting from: ['SEK', 'USD', 'JPY']
+Attempting to improve set, starting from: ['SEK', 'USD', 'JPY', 'EUR']
+Attempting to improve set, starting from: ['SEK', 'USD', 'JPY', 'EUR', 'CAD']
+Attempting to improve set, starting from: ['SEK', 'USD', 'JPY', 'EUR', 'CAD', 'CNY']
+Best set: ['SEK', 'USD', 'JPY', 'EUR', 'CAD', 'CNY', 'KRW'] (0.0058566127991914775)
+With mix:
+USD   0.38097
+EUR   0.21894
+JPY   0.09029
+KRW   0.08885
+CNY   0.08752
+CAD   0.08005
+SEK   0.05339
+dtype: float64Attempting to improve set, starting from: ['SGD']
+Attempting to improve set, starting from: ['SGD', 'GBP']
+Attempting to improve set, starting from: ['SGD', 'GBP', 'USD']
+Attempting to improve set, starting from: ['SGD', 'GBP', 'USD', 'EUR']
+Attempting to improve set, starting from: ['SGD', 'GBP', 'USD', 'EUR', 'JPY']
+Attempting to improve set, starting from: ['SGD', 'GBP', 'USD', 'EUR', 'JPY', 'IDR']
+Best set: ['SGD', 'GBP', 'USD', 'EUR', 'JPY', 'IDR', 'CNY'] (0.005842938729574622)
+With mix:
+USD   0.36044
+EUR   0.18250
+GBP   0.11510
+SGD   0.11048
+JPY   0.08594
+CNY   0.08536
+IDR   0.06018
+dtype: float64Attempting to improve set, starting from: ['USD']
+Attempting to improve set, starting from: ['USD', 'CAD']
+Attempting to improve set, starting from: ['USD', 'CAD', 'EUR']
+Attempting to improve set, starting from: ['USD', 'CAD', 'EUR', 'JPY']
+Attempting to improve set, starting from: ['USD', 'CAD', 'EUR', 'JPY', 'NZD']
+Attempting to improve set, starting from: ['USD', 'CAD', 'EUR', 'JPY', 'NZD', 'GBP']
+Best set: ['USD', 'CAD', 'EUR', 'JPY', 'NZD', 'GBP', 'CNY'] (0.00585636786182309)
+With mix:
+USD   0.39693
+EUR   0.19432
+CAD   0.09689
+CNY   0.09426
+GBP   0.09116
+JPY   0.08720
+NZD   0.03924
+dtype: float64
